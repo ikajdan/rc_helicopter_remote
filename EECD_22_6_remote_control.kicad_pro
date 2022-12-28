@@ -427,6 +427,18 @@
     [
       "86d9edf4-e892-43a8-9472-6e9545d21d29",
       ""
+    ],
+    [
+      "62a3cb89-8cf5-4f7e-95dd-66c62a7f25bb",
+      "Power"
+    ],
+    [
+      "f6475072-17b2-462b-bb74-4700c4f2e9c4",
+      "Communication"
+    ],
+    [
+      "f9609482-36c5-4ffa-ae87-e75fae25c1bf",
+      "LEDs"
     ]
   ],
   "text_variables": {

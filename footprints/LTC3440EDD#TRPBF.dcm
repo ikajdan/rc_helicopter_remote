@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP LTC3440EDD#TRPBF
-D Switching Voltage Regulators 600mA, 2MHz Synch, Buck-Boost Coverter
-K
-F https://www.analog.com/media/en/technical-documentation/data-sheets/3440fd.pdf
-$ENDCMP
-#
-#End Doc Library

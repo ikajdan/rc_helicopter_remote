@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name "Local_Library")(type "KiCad")(uri "${KIPRJMOD}/EECD_22_6_remote_control.kicad_sym")(options "")(descr ""))
+  (lib (name "COM-09032")(type "KiCad")(uri "${KIPRJMOD}/symbols/COM-09032.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32L4P5RET6")(type "KiCad")(uri "${KIPRJMOD}/symbols/STM32L4P5RET6.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC3440EMS")(type "KiCad")(uri "${KIPRJMOD}/symbols/LTC3440EMS.kicad_sym")(options "")(descr ""))
 )
