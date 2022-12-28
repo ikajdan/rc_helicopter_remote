@@ -2751,13 +2751,13 @@
       (reference "R15") (unit 1) (value "100Ω") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/62a3cb89-8cf5-4f7e-95dd-66c62a7f25bb/7b9b3bca-fa6e-40d4-b804-175336f9015a"
-      (reference "SW1") (unit 1) (value "SW_SPST") (footprint "")
+      (reference "SW1") (unit 1) (value "SW_SPST") (footprint "Button_Switch_SMD:SW_DIP_SPSTx01_Slide_9.78x4.72mm_W8.61mm_P2.54mm")
     )
     (path "/5fdb5112-7f91-4fea-936d-a4532cf70cdd"
       (reference "U1") (unit 1) (value "STM32L4P5RET6") (footprint "Package_QFP:LQFP-64_10x10mm_P0.5mm")
     )
     (path "/62a3cb89-8cf5-4f7e-95dd-66c62a7f25bb/99d2109b-14b9-48d7-9de8-47344993d3dc"
-      (reference "U2") (unit 1) (value "LTC3440EMS") (footprint "SOP50P490X110-10N")
+      (reference "U2") (unit 1) (value "LTC3440EMS") (footprint "Local_Library:SOP50P490X110-10N")
     )
     (path "/f6475072-17b2-462b-bb74-4700c4f2e9c4/56b1407b-0fa5-47bb-8f3c-626b85d79d40"
       (reference "U3") (unit 1) (value "NRF24L01_Breakout") (footprint "RF_Module:nRF24L01_Breakout")
