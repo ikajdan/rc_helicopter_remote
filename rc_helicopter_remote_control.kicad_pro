@@ -357,7 +357,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "EECD_22_6_remote_control.kicad_pro",
+    "filename": "rc_helicopter_remote_control.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -394,7 +394,7 @@
       "step": "",
       "vrml": ""
     },
-    "page_layout_descr_file": "EECD_22_6_remote_control.kicad_wks"
+    "page_layout_descr_file": "rc_helicopter_remote_control.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -427,7 +427,7 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "EECD_22_6_remote_control.kicad_wks",
+    "page_layout_descr_file": "rc_helicopter_remote_control.kicad_wks",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
