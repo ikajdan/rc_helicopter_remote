@@ -450,6 +450,10 @@
     [
       "f9609482-36c5-4ffa-ae87-e75fae25c1bf",
       "LEDs"
+    ],
+    [
+      "160493da-11d1-4cc7-a2e1-8ca8ccb62bcd",
+      "Input"
     ]
   ],
   "text_variables": {
