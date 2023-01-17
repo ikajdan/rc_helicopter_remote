@@ -448,15 +448,15 @@
       "Communication"
     ],
     [
-      "f9609482-36c5-4ffa-ae87-e75fae25c1bf",
-      "LEDs"
-    ],
-    [
       "160493da-11d1-4cc7-a2e1-8ca8ccb62bcd",
       "Input"
+    ],
+    [
+      "f9609482-36c5-4ffa-ae87-e75fae25c1bf",
+      "LEDs"
     ]
   ],
   "text_variables": {
-    "REVISION": "0.1.0"
+    "REVISION": "1.0.0"
   }
 }
